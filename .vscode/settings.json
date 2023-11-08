@@ -1,0 +1,23 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dylansiew/Downloads/poi-src-5.2.4-20230921-5.2.4/**/*.jar",
+        "/Users/dylansiew/Downloads/poi-src-5.2.4-20230921-5.2.4 2/**/*.jar",
+        "/Users/dylansiew/Downloads/poi-bin-5.2.3/**/*.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-javadoc-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-excelant-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-ooxml-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-ooxml-lite-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-scratchpad-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-examples-5.2.3.jar",
+        "c:\\Users\\jolen\\Downloads\\poi-bin-5.2.3\\poi-ooxml-full-5.2.3.jar",
+        "C:/Users/Administrator/OneDrive - Nanyang Technological University/Desktop/SC2002 Assignment/**/*.jar",
+        "/Users/matthewheng/Downloads/poi-bin-5.2.3/**/*.jar"
+    ],
+
+    "files.exclude": {
+        "**/*.class": true
+    }
+    
+}
